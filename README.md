@@ -2,7 +2,7 @@
 
 ## Summary
 
-This technical design documentation (TDD) outlines the process of creating an AWS-based solution for managing items in DynamoDB via Lambda and API Gateway, using Java and Postman for development and testing. The `ItemHandler` class implements a Lambda function to perform CRUD operations on items stored in DynamoDB through API Gateway endpoints.
+This documentation outlines the process of creating an AWS-based solution for managing items in DynamoDB via Lambda and API Gateway, using Java and Postman for development and testing. The `ItemHandler` class implements a Lambda function to perform CRUD operations on items stored in DynamoDB through API Gateway endpoints.
 
 ## Architecture Diagram
 
