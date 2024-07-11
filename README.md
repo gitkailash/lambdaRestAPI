@@ -135,3 +135,8 @@ This documentation outlines the process of creating an AWS-based solution for ma
 ## Conclusion
 
 This README provides a comprehensive guide for setting up a serverless API using AWS Lambda, DynamoDB, and API Gateway, with Java for development and Postman for testing. Follow the steps carefully to ensure a successful implementation.
+
+## Important Note
+And hey, don't forget to delete all your created resources to avoid that delightful surprise on your AWS bill! 😅
+
+## Thank You 😁
