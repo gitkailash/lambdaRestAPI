@@ -13,7 +13,7 @@ This technical design documentation (TDD) outlines the process of creating an AW
 3. Lambda accesses DynamoDB to perform CRUD operations.
 4. Response flows back through API Gateway to the Client.
 
-![Architecture Diagram](\src\main\resources\lambda flow.png)
+![Architecture Diagram](https://github.com/gitkailash/lambdaRestAPI/blob/master/src/main/resources/lambda%20flow.png)
 
 ## DynamoDB Table Creation
 
